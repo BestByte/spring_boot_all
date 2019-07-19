@@ -10,4 +10,5 @@ public class XbootApplication {
 		SpringApplication.run(XbootApplication.class, args);
 	}
 
+
 }
