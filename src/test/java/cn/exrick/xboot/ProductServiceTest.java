@@ -1,4 +1,4 @@
-package cn.exrick.xboot.modules.tmall.service;
+package cn.exrick.xboot;
 
 import static org.junit.Assert.*;
 
